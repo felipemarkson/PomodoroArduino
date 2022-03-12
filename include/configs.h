@@ -5,7 +5,7 @@
 #include "Pomodoro.h"
 
 
-#define DEBUG true
+#define DEBUG false
 
 
 #define BUTTON 2
